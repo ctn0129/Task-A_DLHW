@@ -1,4 +1,3 @@
-# Task-A_DLHW
 # Dynamic CNN with Channel Selection
 
 This repository implements a Dynamic Convolutional Neural Network (CNN) architecture designed to handle varying input channel combinations while maintaining a single model. The approach significantly improves efficiency compared to traditional methods that would require separate models for each channel combination.
