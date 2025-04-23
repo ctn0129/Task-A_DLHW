@@ -89,7 +89,7 @@ Our Dynamic CNN significantly reduces parameter count compared to traditional ap
 | Models Required               | 1             | 7                    |
 | Parameters per Model          | -             | 308,840              |
 | Total Parameters              | -             | 15,234,160           |
-| Params Percentage Difference  | -28.7% (dynamic model has more params per model) | - |
+| Params Percentage Difference  | -828.7% (dynamic model has more params per model) | - |
 | Model Count Reduction         | -             | 85.7%                |
 
 ### SE Module Impact
